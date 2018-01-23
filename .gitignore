@@ -1,4 +1,8 @@
-*.crt
-*.key
-
 /logs/**/*.log
+
+# ignore certificate files
+*.cer
+*.crt
+*.cert
+*.key
+*.pem
